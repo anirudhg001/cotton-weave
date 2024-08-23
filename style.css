@@ -28,7 +28,7 @@ body {
 #right {
   height: 100%;
   width: 48%;
-  background-color: blue;
+  /* background-color: blue; */
 }
 
 #left h1 {
